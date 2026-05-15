@@ -1,7 +1,5 @@
 # AI FinTech Platform (India) Prototype
-
 This is a complete, single-page prototype application built with Python and Streamlit.
-
 ## Features
 - **Real-Time Indian Data:** Fetches NSE data automatically.
 - **Interactive Charts:** Fully responsive Plotly candlestick charts.
